@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestDemo</string>
+
+    <string name="title">Welcome TestDemo</string>
+
+    <string name="description">like I would define an interface by using abstract methods except the
+        fact that for newer optional features I will provide an empty default implementation
+    </string>
+
+</resources>
