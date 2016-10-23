@@ -7,4 +7,29 @@
         fact that for newer optional features I will provide an empty default implementation
     </string>
 
+    <string name="long_text">A while back the Android package has been stubbed out for the purpose
+        of Junit tests and classes are no longer final. This means that you can write mocks in order
+        to utilize the class in you business logic. I have written a repository where a presenter
+        after having a FAB clicked will push a message to the screen. In this past I wouldve
+        thought that was the end of my Junit tests, but now that is true!
+
+        A while back the Android package has been stubbed out for the purpose
+        of Junit tests and classes are no longer final. This means that you can write mocks in order
+        to utilize the class in you business logic. I have written a repository where a presenter
+        after having a FAB clicked will push a message to the screen. In this past I wouldve
+        thought that was the end of my Junit tests, but now that is true!
+
+        A while back the Android package has been stubbed out for the purpose
+        of Junit tests and classes are no longer final. This means that you can write mocks in order
+        to utilize the class in you business logic. I have written a repository where a presenter
+        after having a FAB clicked will push a message to the screen. In this past I wouldve
+        thought that was the end of my Junit tests, but now that is true!
+
+        A while back the Android package has been stubbed out for the purpose
+        of Junit tests and classes are no longer final. This means that you can write mocks in order
+        to utilize the class in you business logic. I have written a repository where a presenter
+        after having a FAB clicked will push a message to the screen. In this past I wouldve
+        thought that was the end of my Junit tests, but now that is true!
+    </string>
+
 </resources>
